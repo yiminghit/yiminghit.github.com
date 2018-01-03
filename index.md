@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Harbin Institute of Technology,92 West DaZhi St., Harbin, 150001,P.R.China
+Harbin Institute of Technology,92 West DaZhi St., Harbin, 150001,P.R.China</br>
 E-mail:<yiminghit@gmail.com>
 # [](#header-1)Eduacation
 *   **Harbin Institute of Technology**.&nbsp;Expected July.2018</br>
