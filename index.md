@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+E-mail:<yiminghit@gmail.com>
 # [](#header-1)Eduacation
 *   **Harbin Institute of Technology**.&nbsp;Expected July.2018</br>
  Master of Scince, Major in Control Scince and Engineering</br>
