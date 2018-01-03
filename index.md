@@ -2,7 +2,7 @@
 layout: default
 ---
 # [](#header-1)Eduacation
-*   **Harbin Institute of Technology**.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected July.2018</br>
+*   **Harbin Institute of Technology**.&nbsp;[][][][]Expected July.2018</br>
  Master of Scince, Major in Control Scince and Engineering</br>
  GPA：92.03 Rank:
 *   **Harbin Engineering University**.</br>
@@ -11,7 +11,7 @@ GPA:92 Rank:
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## [](#header-2)Header 2
+# [](#header-2)Publication
 
 > This is a blockquote following a header.
 >
@@ -22,7 +22,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
-
+[Link to another page](another-page).
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ### [](#header-3)Header 3
