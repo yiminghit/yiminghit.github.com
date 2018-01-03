@@ -68,36 +68,12 @@ our algorithm had more layers and details
 **Protocols & APIs** TENSORFLOW, KERAS,OPENCV/OPENGL, QT</br>
 **Tools** Vim, Microsoft Visual Studio, Solidworks,ROS, Linux</br>
 # [](#header-2)Academic Activities
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-
+## [](#header-2)Visiting Student
+School of Physics and Optoelectronic, Xidian University. Advisor: Lu Zhang. Jan. 2017 - Mar. 2017
+## [](#header-2)Summer School
+* **Image Processing Summer School**, Israel Institute of Technology (Technion) July. 2016 - Aug. 2016
+* **Applied Mathematics Summer School**, Harbin Institute of Technology. Lecturer:Michael I. Jordan, Juergen
+Schmidhuber, et al. July. 2017 - Aug. 2017
 
 ### There's a horizontal rule below this.
 
@@ -117,21 +93,6 @@ end
 1.  Item three
 1.  Item four
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
