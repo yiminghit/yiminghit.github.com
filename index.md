@@ -2,7 +2,7 @@
 layout: default
 ---
 # [](#header-1)Eduacation
-*   **Harbin Institute of Technology**.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected July.2018
+*   **Harbin Institute of Technology**.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected July.2018</br>
  GPA
 *   **Harbin Engineering University**.
 
