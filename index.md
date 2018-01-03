@@ -2,14 +2,12 @@
 layout: default
 ---
 # [](#header-1)Eduacation
-*   **Harbin Institute of Technology**.&nbsp;[][][][]Expected July.2018</br>
+*   **Harbin Institute of Technology**.&nbsp;Expected July.2018</br>
  Master of Scince, Major in Control Scince and Engineering</br>
  GPA：92.03 Rank:
 *   **Harbin Engineering University**.</br>
 Bachelor of Engineering, Major in Automation</br>
 GPA:92 Rank:
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # [](#header-2)Publication
 
@@ -18,13 +16,20 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > When something is important enough, you do it even if the odds are not in your favor.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+# [](#header-2)Patent
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
 [Link to another page](another-page).
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# [](#header-2)Presentation
 
+# [](#header-2)Research Experience
+
+
+# [](#header-2)Honors & Awards
+
+# [](#header-2)Academic Activities
 ### [](#header-3)Header 3
 
 ```js
