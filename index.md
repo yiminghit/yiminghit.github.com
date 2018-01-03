@@ -32,18 +32,18 @@ Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 [Link to another page](another-page).
 
 # [](#header-2)Honors & Awards
->National Scholarship (top 2%), 2017
->First-class Scholarship, 2017
->Outstanding Graduate, 2016
->Second prize, Heilongjiang competition area of the national electronic design contest, 2016
->National Scholarship (top 1.5%) , 2015
->Honorable Mention, Interdisciplinary Contest in Modeling, 2015
+>National Scholarship (top 2%), 2017</br>
+>First-class Scholarship, 2017</br>
+>Outstanding Graduate, 2016</br>
+>Second prize, Heilongjiang competition area of the national electronic design contest, 2016</br>
+>National Scholarship (top 1.5%) , 2015</br>
+>Honorable Mention, Interdisciplinary Contest in Modeling, 2015</br>
 
 
 #Skills
-**Programming MATLAB**, C/C++, PYTHON,HTML ,LATEX
-**Protocols & APIs** TENSORFLOW, KERAS,OPENCV/OPENGL, QT
-**Tools Vim**, Microsoft Visual Studio, Solidworks,ROS, Linux
+**Programming MATLAB**, C/C++, PYTHON,HTML ,LATEX</br>
+**Protocols & APIs** TENSORFLOW, KERAS,OPENCV/OPENGL, QT</br>
+**Tools Vim**, Microsoft Visual Studio, Solidworks,ROS, Linux</br>
 # [](#header-2)Academic Activities
 ### [](#header-3)Header 3
 
