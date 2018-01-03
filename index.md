@@ -5,9 +5,9 @@ layout: default
 
 
 # [](#header-1)Eduacation
-*   Harbin Institute of Technology.
+*   **Harbin Institute of Technology**.
 *   This is an unordered list following a header.
-*   Harbin Engineering University.
+*   **Harbin Engineering University**.
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
