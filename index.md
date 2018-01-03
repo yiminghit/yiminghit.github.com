@@ -11,10 +11,18 @@ GPA:92 Rank:
 # [](#header-2)Research Interest
 Image Processing, Computer/Machine Vision, Pattern Recognition,Autonomous Systems, Robotics
 # [](#header-2)Publication
-
-> Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li.“A Character-Segmentation Based Adaptive Detection Approach for Automobile Dashboard”, IEEE Transactions on Industrial Informatics (Under Review)
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## [](#header-2)Journal Articles
+> Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li.“A Character-Segmentation Based Adaptive Detection Approach for Automobile Dashboard”, IEEE Transactions on Industrial Informatics **(Under Review)**
+>Lu Zhang, **Ming Yi**, Jin Li.“Suppression of laser phase noise in direct-detection optical OFDM transmission
+using phase-conjugated pilots”, Optics Communications, Volume 403, 2017, Pages 197-204, ISSN 0030-4018
+>Huijin Gao, Ming Yi,“Industrial Vision Inspection: An Overview of its Application in Industrial Automation”
+(Under Preparation)
+## [](#header-2)Conference
+>**Ming Yi**, Fengyu Guo, Zhenhua Yang, Jialin Liu,“A Clustering-Based algorithm for Automobile Dashboard
+Detection”, The 43rd Annual Conference of the IEEE Industrial Electronics Society (IECON2017),Accepted
+>Zeng B, **Yi M**, Liu J.“The muti-sensors surveillance system based on remote network”, IEEE International
+Conference on Aircraft Utility Systems. IEEE, 2016:201-205.
+>Boxuan Han, **Ming Yi**,“A Template Matching Based Method for Surface-Mount Rectangular-Pin-Chip Positioning and Defect Detection”, The Seventh International Conference on Instrument & Measurement, Computer,Communication and Control, **Accepted**
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 # [](#header-2)Patent
