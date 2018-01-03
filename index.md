@@ -32,7 +32,7 @@ Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 # [](#header-2)Research Experience
 ## [](#header-2)[Design an automobile surround view system](another-page).
 *   Calculated internal and external parameters of fisheye cameras and calibrated cameras
-*  Design image fusion and stitching algorithm, generate top view image of automobile
+*  Design image fusion and stitching algorithm, generate top view image of automobile.
 ## [](#header-2)[Design two detection algorithms for automobile dashboard detection vision System](another-page).
 *   Proposed a clustering-based approach and a character segmentation-based approach to detect dashboard
 *   Both algorithms had more accurate detection results than traditional meter detection algorithm. The latter algorithm is an adaptive approach for detecting different types of dashboard
@@ -57,18 +57,18 @@ our algorithm had more layers and details
 *  Designed camera Linux driver and temperature sensor driver
 *  Data transmission was based on TCP/IP protocol. Designed UI interface by QT
 # [](#header-2)Honors & Awards
->**National Scholarship (top 2%)**, 2017</br>
->First-class Scholarship, 2017</br>
->Outstanding Graduate, 2016</br>
->Second prize, Heilongjiang competition area of the national electronic design contest, 2016</br>
->**National Scholarship (top 1.5%)** , 2015</br>
->Honorable Mention, Interdisciplinary Contest in Modeling, 2015</br>
+* **National Scholarship (top 2%)**, 2017</br>
+* First-class Scholarship, 2017</br>
+* Outstanding Graduate, 2016</br>
+* Second prize, Heilongjiang competition area of the national electronic design contest, 2016</br>
+* **National Scholarship (top 1.5%)** , 2015</br>
+* Honorable Mention, Interdisciplinary Contest in Modeling, 2015</br>
 
 
 # [](#header-2)Skills
-**Programming** MATLAB, C/C++, PYTHON,HTML ,LATEX</br>
-**Protocols & APIs** TENSORFLOW, KERAS,OPENCV/OPENGL, QT</br>
-**Tools** Vim, Microsoft Visual Studio, Solidworks,ROS, Linux</br>
+* **Programming** MATLAB, C/C++, PYTHON,HTML ,LATEX</br>
+* **Protocols & APIs** TENSORFLOW, KERAS,OPENCV/OPENGL, QT</br>
+* **Tools** Vim, Microsoft Visual Studio, Solidworks,ROS, Linux</br>
 # [](#header-2)Academic Activities
 ## [](#header-2)Visiting Student
 School of Physics and Optoelectronic, Xidian University. Advisor: Lu Zhang. Jan. 2017 - Mar. 2017
