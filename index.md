@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
+Address: Harbin Institute of Technology,92 West DaZhi St., Harbin, 150001,P.R.China:     
+E-mail:  <yiminghit@gmail.com>
 # [](#header-1)Eduacation
-*   **Harbin Institute of Technology**.&nbsp;Expected July.2018</br>
- Master of Scince, Major in Control Scince and Engineering</br>
- GPA：92.03 Rank:
-*   **Harbin Engineering University**.</br>
-Bachelor of Engineering, Major in Automation</br>
-GPA:92 Rank:
+*   **Harbin Institute of Technology**.&nbsp;Expected July.2018       
+Master of Scince, Major in Control Scince and Engineering    
+GPA(Major)：88.95/100 Rank:1/37
+*   **Harbin Engineering University**.   
+Bachelor of Engineering, Major in Automation     
+GPA:92.03/100 Rank:3/209
 # [](#header-2)Research Interest
 Image Processing, Computer/Machine Vision, Pattern Recognition,Autonomous Systems, Robotics
 # [](#header-2)Publication
@@ -28,122 +30,51 @@ Conference on Aircraft Utility Systems._ IEEE, 2016:201-205.
 Huijun Gao, Ming Yi, Jinyong Yu, Fengyu Guo. “A Character-Segmentation Cascade Binary Classifier Based
 Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 # [](#header-2)Research Experience
-## [](#header-2)[Link to another page](another-page).
-[Link to another page](another-page).
+## [](#header-2)[Design an automobile surround view system](project1).
 *   Calculated internal and external parameters of fisheye cameras and calibrated cameras
-*  Design image fusion and stitching algorithm, generate top view image of automobile
-[Design two detection algorithms for automobile dashboard detection vision System](another-page).
+*  Design image fusion and stitching algorithm, generate top view image of automobile.
+## [](#header-2)[Design two detection algorithms for automobile dashboard detection vision System](another-page).
 *   Proposed a clustering-based approach and a character segmentation-based approach to detect dashboard
 *   Both algorithms had more accurate detection results than traditional meter detection algorithm. The latter algorithm is an adaptive approach for detecting different types of dashboard
 *  This detection system reduced the detection time from 30 minutes (by labor) to 30 seconds per dashboard
-*   The adaptive approach has applied for a national patent and is planning to apply for a US patent
-
-
+*  The adaptive approach has applied for a national patent and is planning to apply for a US patent
+## [](#header-2)[Intelligent diagnosis of lung nodules](another-page).
+* Preprocessed lung CT data and extracted the mask of the lung region in the CT image
+* Used U-Net to study the characteristics of lung nodules and segmented test images
+* Extracted the 3D connected domain and obtained 3D data of all the suspected lung nodules
+* Set up a 3D-CNN classification network. The 3-D data was fed to the classification network for training. Used
+the trained network to classify the test set and the layer outputted the probability of this region
+## [](#header-2)[Design modified octree algorithm for embedded system display](another-page).
+* Proposed modified octree quantization method combined with visual saliency
+* Compared with Microsoft Paint 256 color algorithm and traditional octree algorithm, the images produced by
+our algorithm had more layers and details
+* This algorithm is applying for a national patent
+## [](#header-2)[Design algorithm for chip positioning and defect inspection in SMT](another-page).
+*  Proposed a template-matching based method to obtain chip’s accurate position
+*  This algorithm satisfies real-time requirement of Surmount Surface Technology (SMT)
+## [](#header-2)[Design an embedded surveillance system](another-page).
+*  Ported U-boot, trimmed and ported Linux kernel and built root file system on ARM11(S3C6410)
+*  Designed camera Linux driver and temperature sensor driver
+*  Data transmission was based on TCP/IP protocol. Designed UI interface by QT
 # [](#header-2)Honors & Awards
->**National Scholarship (top 2%)**, 2017</br>
->First-class Scholarship, 2017</br>
->Outstanding Graduate, 2016</br>
->Second prize, Heilongjiang competition area of the national electronic design contest, 2016</br>
->**National Scholarship (top 1.5%)** , 2015</br>
->Honorable Mention, Interdisciplinary Contest in Modeling, 2015</br>
+* **National Scholarship (top 2%)**, 2017
+* First-class Scholarship, 2017
+* Outstanding Graduate, 2016
+* Second prize, Heilongjiang competition area of the national electronic design contest, 2016
+* **National Scholarship (top 1.5%)** , 2015
+* Honorable Mention, Interdisciplinary Contest in Modeling, 2015
 
 
 # [](#header-2)Skills
-**Programming** MATLAB, C/C++, PYTHON,HTML ,LATEX</br>
-**Protocols & APIs** TENSORFLOW, KERAS,OPENCV/OPENGL, QT</br>
-**Tools** Vim, Microsoft Visual Studio, Solidworks,ROS, Linux</br>
+* **Programming** MATLAB, C/C++, PYTHON,HTML ,LATEX
+* **Protocols & APIs** TENSORFLOW, KERAS,OPENCV/OPENGL, QT
+* **Tools** Vim, Microsoft Visual Studio, Solidworks,ROS, Linux
 # [](#header-2)Academic Activities
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## [](#header-2)Visiting Student
+School of Physics and Optoelectronic, Xidian University. Advisor: Lu Zhang. Jan. 2017 - Mar. 2017
+## [](#header-2)Summer School
+* **Image Processing Summer School**, Israel Institute of Technology (Technion) July. 2016 - Aug. 2016
+* **Applied Mathematics Summer School**, Harbin Institute of Technology. Lecturer:Michael I. Jordan, Juergen
+Schmidhuber, et al. July. 2017 - Aug. 2017
 
 
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

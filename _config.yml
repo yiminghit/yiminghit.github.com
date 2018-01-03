@@ -1,6 +1,5 @@
 title: Ming Yi
-description:Harbin Institute of Technology, China
-<yiminghit@gmail.com>
-show_downloads: true
+description: Harbin Institute of Technology,China
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
