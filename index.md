@@ -8,10 +8,11 @@ layout: default
 *   **Harbin Engineering University**.</br>
 Bachelor of Engineering, Major in Automation</br>
 GPA:92 Rank:
-
+# [](#header-2)Research Interest
+Image Processing, Computer/Machine Vision, Pattern Recognition,Autonomous Systems, Robotics
 # [](#header-2)Publication
 
-> This is a blockquote following a header.
+> Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li.“A Character-Segmentation Based Adaptive Detection Approach for Automobile Dashboard”, IEEE Transactions on Industrial Informatics (Under Review)
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
@@ -59,14 +60,7 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### [](#header-6)Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
