@@ -30,6 +30,14 @@ Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 # [](#header-2)Research Experience
 ## [](#header-2)[Link to another page](another-page).
 [Link to another page](another-page).
+*   Calculated internal and external parameters of fisheye cameras and calibrated cameras
+*  Design image fusion and stitching algorithm, generate top view image of automobile
+[Design two detection algorithms for automobile dashboard detection vision System](another-page).
+*   Proposed a clustering-based approach and a character segmentation-based approach to detect dashboard
+*   Both algorithms had more accurate detection results than traditional meter detection algorithm. The latter algorithm is an adaptive approach for detecting different types of dashboard
+*  This detection system reduced the detection time from 30 minutes (by labor) to 30 seconds per dashboard
+*   The adaptive approach has applied for a national patent and is planning to apply for a US patent
+
 
 # [](#header-2)Honors & Awards
 >**National Scholarship (top 2%)**, 2017</br>
@@ -41,9 +49,9 @@ Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 
 
 # [](#header-2)Skills
-**Programming MATLAB**, C/C++, PYTHON,HTML ,LATEX</br>
+**Programming** MATLAB, C/C++, PYTHON,HTML ,LATEX</br>
 **Protocols & APIs** TENSORFLOW, KERAS,OPENCV/OPENGL, QT</br>
-**Tools Vim**, Microsoft Visual Studio, Solidworks,ROS, Linux</br>
+**Tools** Vim, Microsoft Visual Studio, Solidworks,ROS, Linux</br>
 # [](#header-2)Academic Activities
 ### [](#header-3)Header 3
 
