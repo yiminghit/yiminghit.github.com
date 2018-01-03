@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-Harbin Institute of Technology,92 West DaZhi St., Harbin, 150001,P.R.China   
+Address: Harbin Institute of Technology,92 West DaZhi St., Harbin, 150001,P.R.China: 
 E-mail:  <yiminghit@gmail.com>
 # [](#header-1)Eduacation
 *   **Harbin Institute of Technology**.&nbsp;Expected July.2018</br>
  Master of Scince, Major in Control Scince and Engineering</br>
  GPA(Major)：88.95/100 Rank:1/37
-*   **Harbin Engineering University**.</br>
-Bachelor of Engineering, Major in Automation</br>
+*   **Harbin Engineering University**.   
+Bachelor of Engineering, Major in Automation     
 GPA:92.03/100 Rank:3/209
 # [](#header-2)Research Interest
 Image Processing, Computer/Machine Vision, Pattern Recognition,Autonomous Systems, Robotics
