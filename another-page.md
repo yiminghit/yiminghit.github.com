@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Design two detection algorithms for automobile dashboard detection vision System
 
 _yay_
 
