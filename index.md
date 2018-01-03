@@ -3,7 +3,8 @@ layout: default
 ---
 # [](#header-1)Eduacation
 *   **Harbin Institute of Technology**.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected July.2018</br>
- Master of Scince, Major in Control Scince and Engineering,GPA：92.03 Rank:
+ Master of Scince, Major in Control Scince and Engineering</br>
+ GPA：92.03 Rank:
 *   **Harbin Engineering University**.</br>
 Bachelor of Engineering, Major in Automation</br>
 GPA:92 Rank:
