@@ -3,8 +3,10 @@ layout: default
 ---
 # [](#header-1)Eduacation
 *   **Harbin Institute of Technology**.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected July.2018</br>
- GPA
-*   **Harbin Engineering University**.
+ Master of Scince, Major in Control Scince and Engineering,GPA：92.03 Rank:
+*   **Harbin Engineering University**.</br>
+Bachelor of Engineering, Major in Automation</br>
+GPA:92 Rank:
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
