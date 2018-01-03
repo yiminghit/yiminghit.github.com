@@ -6,10 +6,10 @@ E-mail:<yiminghit@gmail.com>
 # [](#header-1)Eduacation
 *   **Harbin Institute of Technology**.&nbsp;Expected July.2018</br>
  Master of Scince, Major in Control Scince and Engineering</br>
- GPA：92.03 Rank:
+ GPA(Major)：88.95/100 Rank:1/37
 *   **Harbin Engineering University**.</br>
 Bachelor of Engineering, Major in Automation</br>
-GPA:92 Rank:
+GPA:92.03/100 Rank:3/209
 # [](#header-2)Research Interest
 Image Processing, Computer/Machine Vision, Pattern Recognition,Autonomous Systems, Robotics
 # [](#header-2)Publication
