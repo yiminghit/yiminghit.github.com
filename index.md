@@ -24,20 +24,26 @@ Detection”, _The 43rd Annual Conference of the IEEE Industrial Electronics Soc
 Conference on Aircraft Utility Systems._ IEEE, 2016:201-205.
 >3. Boxuan Han, **Ming Yi**,“A Template Matching Based Method for Surface-Mount Rectangular-Pin-Chip Positioning and Defect Detection”, The Seventh International Conference on Instrument & Measurement, Computer,Communication and Control, **Accepted**
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 # [](#header-2)Patent
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-[Link to another page](another-page).
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-# [](#header-2)Presentation
-
+Huijun Gao, Ming Yi, Jinyong Yu, Fengyu Guo. “A Character-Segmentation Cascade Binary Classifier Based
+Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 # [](#header-2)Research Experience
 
+[Link to another page](another-page).
 
 # [](#header-2)Honors & Awards
+>National Scholarship (top 2%), 2017
+>First-class Scholarship, 2017
+>Outstanding Graduate, 2016
+>Second prize, Heilongjiang competition area of the national electronic design contest, 2016
+>National Scholarship (top 1.5%) , 2015
+>Honorable Mention, Interdisciplinary Contest in Modeling, 2015
 
+
+#Skills
+**Programming MATLAB**, C/C++, PYTHON,HTML ,LATEX
+**Protocols & APIs** TENSORFLOW, KERAS,OPENCV/OPENGL, QT
+**Tools Vim**, Microsoft Visual Studio, Solidworks,ROS, Linux
 # [](#header-2)Academic Activities
 ### [](#header-3)Header 3
 
