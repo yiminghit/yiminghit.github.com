@@ -30,7 +30,7 @@ _yay_
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://github.com/yiminghit/yiminghit.github.com/blob/master/meter.pdf)
 
 ### Large image
 
