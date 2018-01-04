@@ -3,11 +3,16 @@ layout: default
 ---
 
 ## Design two detection algorithms for automobile dashboard detection vision System
-
-_yay_
-
 [back](./)
 
+
+### Automobile Dashboard Detection System
+
+![](https://github.com/yiminghit/yiminghit.github.com/blob/master/meter.png)
+
+
+
+### Definition lists can be used with HTML syntax.
 ### There's a horizontal rule below this.
 
 * * *
@@ -26,18 +31,6 @@ _yay_
 1.  Item three
 1.  Item four
 
-
-### Small image
-
-![](https://github.com/yiminghit/yiminghit.github.com/blob/master/meter.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-![](meter.pdf)
-
-
-### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
