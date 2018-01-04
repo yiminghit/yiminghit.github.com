@@ -30,7 +30,7 @@ _yay_
 
 ### Small image
 
-![](https://github.com/yiminghit/yiminghit.github.com/blob/master/meter.pdf)
+![](https://github.com/yiminghit/yiminghit.github.com/blob/master/0001.jpg)
 
 ### Large image
 
