@@ -30,10 +30,10 @@ Conference on Aircraft Utility Systems._ IEEE, 2016:201-205.
 Huijun Gao, Ming Yi, Jinyong Yu, Fengyu Guo. “A Character-Segmentation Cascade Binary Classifier Based
 Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 # [](#header-2)Research Experience
-## [](#header-2)[Design an automobile surround view system](project1).
+## [](#header-2)[Design an automobile surround view system](Surroundview).
 *   Calculated internal and external parameters of fisheye cameras and calibrated cameras
 *  Design image fusion and stitching algorithm, generate top view image of automobile.
-## [](#header-2)[Design two detection algorithms for automobile dashboard detection vision System](another-page).
+## [](#header-2)[Design two detection algorithms for automobile dashboard detection vision System](meterdetection).
 *   Proposed a clustering-based approach and a character segmentation-based approach to detect dashboard
 *   Both algorithms had more accurate detection results than traditional meter detection algorithm. The latter algorithm is an adaptive approach for detecting different types of dashboard
 *  This detection system reduced the detection time from 30 minutes (by labor) to 30 seconds per dashboard
@@ -44,12 +44,12 @@ Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 * Extracted the 3D connected domain and obtained 3D data of all the suspected lung nodules
 * Set up a 3D-CNN classification network. The 3-D data was fed to the classification network for training. Used
 the trained network to classify the test set and the layer outputted the probability of this region
-## [](#header-2)[Design modified octree algorithm for embedded system display](another-page).
+## [](#header-2)[Design modified octree algorithm for embedded system display](Octree).
 * Proposed modified octree quantization method combined with visual saliency
 * Compared with Microsoft Paint 256 color algorithm and traditional octree algorithm, the images produced by
 our algorithm had more layers and details
 * This algorithm is applying for a national patent
-## [](#header-2)[Design algorithm for chip positioning and defect inspection in SMT](another-page).
+## [](#header-2)[Design algorithm for chip positioning and defect inspection in SMT](Octree).
 *  Proposed a template-matching based method to obtain chip’s accurate position
 *  This algorithm satisfies real-time requirement of Surmount Surface Technology (SMT)
 ## [](#header-2)[Design an embedded surveillance system](another-page).
