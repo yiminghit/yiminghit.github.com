@@ -34,6 +34,7 @@ _yay_
 ### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
+![](meter.pdf)
 
 
 ### Definition lists can be used with HTML syntax.
