@@ -30,7 +30,7 @@ Conference on Aircraft Utility Systems._ IEEE, 2016:201-205.
 Huijun Gao, Ming Yi, Jinyong Yu, Fengyu Guo. “A Character-Segmentation Cascade Binary Classifier Based
 Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 # [](#header-2)Research Experience
-## [](#header-2)[Design an automobile surround view system](another-page).
+## [](#header-2)[Design an automobile surround view system](https://github.com/yiminghit/yiminghit.github.com/edit/master/Octree.md).
 *   Calculated internal and external parameters of fisheye cameras and calibrated cameras
 *  Design image fusion and stitching algorithm, generate top view image of automobile.
 ## [](#header-2)[Design two detection algorithms for automobile dashboard detection vision System](meterdetection).
