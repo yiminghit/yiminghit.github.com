@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Octree modified algorithm for embeded system display
+## Design algorithm for chip positioning and defect inspection in SMT
 [back](./)
 
 
 ### Modified Octree Algorithm
 
-![](https://github.com/yiminghit/yiminghit.github.com/blob/master/Octree2.png)
+![](https://github.com/yiminghit/yiminghit.github.com/blob/master/SOJ.png)
 
 
 
