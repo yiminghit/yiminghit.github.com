@@ -38,7 +38,7 @@ Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 *   Both algorithms had more accurate detection results than traditional meter detection algorithm. The latter algorithm is an adaptive approach for detecting different types of dashboard
 *  This detection system reduced the detection time from 30 minutes (by labor) to 30 seconds per dashboard
 *  The adaptive approach has applied for a national patent and is planning to apply for a US patent
-## [](#header-2)[Intelligent diagnosis of lung nodules](another-page).
+## [](#header-2)[Intelligent diagnosis of lung nodules](IntelligentDiganose).
 * Preprocessed lung CT data and extracted the mask of the lung region in the CT image
 * Used U-Net to study the characteristics of lung nodules and segmented test images
 * Extracted the 3D connected domain and obtained 3D data of all the suspected lung nodules
