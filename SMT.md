@@ -8,7 +8,7 @@ layout: default
 
 ### Modified Octree Algorithm
 
-![](https://github.com/yiminghit/yiminghit.github.com/blob/master/SOJ.png)
+![](SOJ.png)
 
 
 
