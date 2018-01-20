@@ -38,13 +38,13 @@ Adaptive Detection Approach for Automobile Dashboard” (Patent Pending)
 *   Both algorithms had more accurate detection results than traditional meter detection algorithm. The latter algorithm is an adaptive approach for detecting different types of dashboard
 *  This detection system reduced the detection time from 30 minutes (by labor) to 30 seconds per dashboard
 *  The adaptive approach has applied for a national patent and is planning to apply for a US patent
-## [](#header-2)[Intelligent diagnosis of lung nodules](IntelligentDiganose).
+## [](#header-2)[Intelligent diagnosis of lung nodules](IntelligentDiganose.md).
 * Preprocessed lung CT data and extracted the mask of the lung region in the CT image
 * Used U-Net to study the characteristics of lung nodules and segmented test images
 * Extracted the 3D connected domain and obtained 3D data of all the suspected lung nodules
 * Set up a 3D-CNN classification network. The 3-D data was fed to the classification network for training. Used
 the trained network to classify the test set and the layer outputted the probability of this region
-## [](#header-2)[Design modified octree algorithm for embedded system display](Octree).
+## [](#header-2)[Design modified octree algorithm for embedded system display](Octree.md).
 * Proposed modified octree quantization method combined with visual saliency
 * Compared with Microsoft Paint 256 color algorithm and traditional octree algorithm, the images produced by
 our algorithm had more layers and details
@@ -52,7 +52,7 @@ our algorithm had more layers and details
 ## [](#header-2)[Design algorithm for chip positioning and defect inspection in SMT](SMT.md).
 *  Proposed a template-matching based method to obtain chip’s accurate position
 *  This algorithm satisfies real-time requirement of Surmount Surface Technology (SMT)
-## [](#header-2)[Design an embedded surveillance system](another-page).
+## [](#header-2)[Design an embedded surveillance system]().
 *  Ported U-boot, trimmed and ported Linux kernel and built root file system on ARM11(S3C6410)
 *  Designed camera Linux driver and temperature sensor driver
 *  Data transmission was based on TCP/IP protocol. Designed UI interface by QT
