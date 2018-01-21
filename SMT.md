@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Design algorithm for chip positioning and defect inspection in SMT
-[back](./)
+[back](https://yiminghit.github.io/)
 
 
 ### Flowchart
