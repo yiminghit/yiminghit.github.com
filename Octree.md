@@ -8,38 +8,12 @@ layout: default
 
 ### Modified Octree Algorithm
 
-![](https://github.com/yiminghit/yiminghit.github.com/blob/master/Octree2.png)
-
-
-
-### Definition lists can be used with HTML syntax.
-### There's a horizontal rule below this.
-
 * * *
 
-### Here is an unordered list:
+![](https://github.com/yiminghit/yiminghit.github.com/blob/master/Octree2.png)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Highlights:
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
+1. Proposed modified octree quantization method combined with visual saliency
+2. Compared with Microsoft Paint 256 color algorithm and traditional octree algorithm, the images produced by our algorithm had more layers and details
+3. This algorithm is applying for a national patent
