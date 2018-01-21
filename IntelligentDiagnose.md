@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Intelligent Diagnose of Lung Nodules
-[back](./)
+[back](https://yiminghit.github.io/)
 
 
 ### Algorithm flowchart
