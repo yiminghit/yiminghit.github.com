@@ -14,17 +14,17 @@ GPA:92.03/100 Rank:3/209
 Image Processing, Computer/Machine Vision, Pattern Recognition,Autonomous Systems, Robotics
 # [](#header-2)Publication
 ## [](#header-2)Journal Articles
-> 1. Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li.“A Character-Segmentation Based Adaptive Detection Approach for Automobile Dashboard”, _IEEE Transactions on Industrial Informatics_ **(Under Review)**
->2. Lu Zhang, **Ming Yi**, Jin Li.“Suppression of laser phase noise in direct-detection optical OFDM transmission
+1. Huijun Gao, **Ming Yi**, Jinyong Yu, Junbao Li.“A Character-Segmentation Based Adaptive Detection Approach for Automobile Dashboard”, _IEEE Transactions on Industrial Informatics_ **(Under Review)**
+2. Lu Zhang, **Ming Yi**, Jin Li.“Suppression of laser phase noise in direct-detection optical OFDM transmission
 using phase-conjugated pilots”, _Optics Communications_, Volume 403, 2017, Pages 197-204, ISSN 0030-4018
->3. Huijin Gao, Ming Yi,“Industrial Vision Inspection: An Overview of its Application in Industrial Automation”
+3. Huijin Gao, Ming Yi,“Industrial Vision Inspection: An Overview of its Application in Industrial Automation”
 (Under Preparation)
 ## [](#header-2)Conference
->1. **Ming Yi**, Fengyu Guo, Zhenhua Yang, Jialin Liu,“A Clustering-Based algorithm for Automobile Dashboard
+1. **Ming Yi**, Fengyu Guo, Zhenhua Yang, Jialin Liu,“A Clustering-Based algorithm for Automobile Dashboard
 Detection”, _The 43rd Annual Conference of the IEEE Industrial Electronics Society (IECON2017)_,**Accepted**
->2. Zeng B, **Yi M**, Liu J.“The muti-sensors surveillance system based on remote network”, _IEEE International
+2. Zeng B, **Yi M**, Liu J.“The muti-sensors surveillance system based on remote network”, _IEEE International
 Conference on Aircraft Utility Systems._ IEEE, 2016:201-205.
->3. Boxuan Han, **Ming Yi**,“A Template Matching Based Method for Surface-Mount Rectangular-Pin-Chip Positioning and Defect Detection”, The Seventh International Conference on Instrument & Measurement, Computer,Communication and Control, **Accepted**
+3. Boxuan Han, **Ming Yi**,“A Template Matching Based Method for Surface-Mount Rectangular-Pin-Chip Positioning and Defect Detection”, The Seventh International Conference on Instrument & Measurement, Computer,Communication and Control, **Accepted**
 
 # [](#header-2)Patent
 Huijun Gao, Ming Yi, Jinyong Yu, Fengyu Guo. “A Character-Segmentation Cascade Binary Classifier Based
