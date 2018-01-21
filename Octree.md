@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Octree modified algorithm for embeded system display
-[back](./)
+[back](https://yiminghit.github.io/)
 
 
 ### Modified Octree Algorithm
