@@ -49,7 +49,7 @@ the trained network to classify the test set and the layer outputted the probabi
 * Compared with Microsoft Paint 256 color algorithm and traditional octree algorithm, the images produced by
 our algorithm had more layers and details
 * This algorithm is applying for a national patent
-## [](#header-2)[Design algorithm for chip positioning and defect inspection in SMT](SMT.md).
+## [](#header-2)[Design algorithm for chip positioning and defect inspection in SMT](https://github.com/yiminghit/yiminghit.github.com/blob/master/SMT.md).
 *  Proposed a template-matching based method to obtain chip’s accurate position
 *  This algorithm satisfies real-time requirement of Surmount Surface Technology (SMT)
 ## [](#header-2)[Design an embedded surveillance system]().
