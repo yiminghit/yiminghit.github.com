@@ -17,28 +17,16 @@ layout: default
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
 ### And an ordered list:
 
 1.  Item one
 1.  Item two
 1.  Item three
-1.  Item four
+1.  Item four 
+1. Proposed a clustering-based approach and a character segmentation-based approach to detect dashboard
+2. Both algorithms had more accurate detection results than traditional meter detection algorithm. The latter algorithm is an adaptive  approach for detecting different types of dashboard
+3. This detection system reduced the detection time from 30 minutes (by labor) to 30 seconds per dashboard
+4. The adaptive approach has applied for a national patent and is planning to apply for a US patent
 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
