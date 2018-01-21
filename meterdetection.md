@@ -7,23 +7,10 @@ layout: default
 
 
 ### Automobile Dashboard Detection System
-
+* * *
 ![](https://github.com/yiminghit/yiminghit.github.com/blob/master/meter.png)
 
-
-
-### Definition lists can be used with HTML syntax.
-### There's a horizontal rule below this.
-
-* * *
-
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four 
+### Highlights:
 1. Proposed a clustering-based approach and a character segmentation-based approach to detect dashboard
 2. Both algorithms had more accurate detection results than traditional meter detection algorithm. The latter algorithm is an adaptive  approach for detecting different types of dashboard
 3. This detection system reduced the detection time from 30 minutes (by labor) to 30 seconds per dashboard
