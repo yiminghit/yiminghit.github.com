@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Design two detection algorithms for automobile dashboard detection vision System
-[back](./)
+[back](https://yiminghit.github.io/)
 
 
 ### Automobile Dashboard Detection System
