@@ -1,4 +1,3 @@
-https://yiminghit.github.io/
 ---
 layout: default
 ---
@@ -13,39 +12,9 @@ _yay_
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-
 ### Small image
 
 ![](https://github.com/yiminghit/yiminghit.github.com/blob/master/0001.jpg)
 
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1. Calculated internal and external parameters of fisheye cameras and calibrated cameras
+2. Design image fusion and stitching algorithm, generate top view image of automobile.
