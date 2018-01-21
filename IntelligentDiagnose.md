@@ -2,44 +2,22 @@
 layout: default
 ---
 
-## Octree modified algorithm for embeded system display
+## Intelligent Diagnose of Lung Nodules
 [back](./)
 
 
-### Modified Octree Algorithm
+### Algorithm flowchart
+
+* * *
 
 ![](https://github.com/yiminghit/yiminghit.github.com/blob/master/Octree2.png)
 
 
 
-### Definition lists can be used with HTML syntax.
-### There's a horizontal rule below this.
+### Highlights:
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1.Preprocessed lung CT data and extracted the mask of the lung region in the CT image
+2. Used U-Net to study the characteristics of lung nodules and segmented test images
+3. Extracted the 3D connected domain and obtained 3D data of all the suspected lung nodules
+4. Set up a 3D-CNN classification network. The 3-D data was fed to the classification network for training. Used the trained network to classify the test set and the layer outputted the probability of this region
 
