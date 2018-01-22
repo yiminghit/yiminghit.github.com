@@ -12,7 +12,7 @@ Bachelor of Engineering, Major in Automation
 GPA:92.03/100 Rank:3/209
 
 # [](#header-2)Research Interest
-Image Processing, Computer/Machine Vision, Pattern Recognition,Autonomous Systems, Robotics
+Image Processing, Computer/Machine Vision, Pattern Recognition, Machine Learning, Robotics
 
 # [](#header-2)Publication
 ## [](#header-2)Journal Articles
